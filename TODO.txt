@@ -1,0 +1,18 @@
+Website ideas to implement: 
+
+General: 
+- TODO list inside each category and a DEV-TODO
+- A reading list inside each category
+- Color scheme!
+- Collection of websites
+- Acces to files directly inside the website (be able to modify, add new folders etc.)
+
+Personal: 
+- Random recipe suggestor
+
+Study: 
+- A example study schedule that I can use for each day (Lecture -> Notes -> Repetition -> Practise)
+- A list of good study methods and "rules" to follow
+
+Professional: 
+- 
